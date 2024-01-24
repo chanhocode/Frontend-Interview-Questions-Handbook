@@ -29,4 +29,7 @@
 - 메모리 힙 <br>
   : 원시 타입이 아닌 타입의 데이터가 저장되는 공간으로, 메모리 할당이 일어나게 된다.
 
+- 태스크 큐 와 마이크로 태스크 큐 <br>
+  마이크로 태스크 큐에는 Promise, Observer API, Node.js의 process.nextTick등이 들어간다. 태스크 큐에는 setTimeout이나 setInterval같은 함수가 들어가게 된다.
+
 [처음으로](../README.md)
