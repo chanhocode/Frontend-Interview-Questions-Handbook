@@ -26,4 +26,6 @@
 
 - [얕은 복사와 깊은 복사](./Javascript/copy.md)
 
+- [이벤트 버블링](./Javascript/eventBubbling.md)
+
 - [ESM, CJS 모듈화 방법](./Javascript/esm_cjs.md)
