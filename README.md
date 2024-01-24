@@ -15,3 +15,5 @@
 - [Call By Value](./Javascript/callByValue.md)
 
 - [const 와 let의 호이스팅](./Javascript/const_let.md)
+
+- [let 과 var의 차이점](./Javascript/let_var.md)
