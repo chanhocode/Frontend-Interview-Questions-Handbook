@@ -30,4 +30,6 @@
 
 - [Javascript에서의 this](./Javascript/this.md)
 
+- [비동기처리의 개념과 중요성](./Javascript/asynchronous.md)
+
 - [ESM, CJS 모듈화 방법](./Javascript/esm_cjs.md)
