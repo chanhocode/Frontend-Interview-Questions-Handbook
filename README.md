@@ -23,3 +23,5 @@
 - [const의 immutable](./Javascript/const.md)
 
 - [클로저(Closure)](./Javascript/closure.md)
+
+- [얕은 복사와 깊은 복사](./Javascript/copy.md)
