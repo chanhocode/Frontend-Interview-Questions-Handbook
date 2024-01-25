@@ -102,4 +102,4 @@
 
 # 🚥 Others
 
-## C++
+- [C++](./Others/cpp.md)
