@@ -98,6 +98,8 @@
 
 # 🚙 OS
 
+- [운영체제 정리](./OS/os.md)
+
 # 💾 Data Structure
 
 - [자료구조 정리](./DataStructure/dataStructure.md)
