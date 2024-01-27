@@ -96,6 +96,10 @@
 
 # 🚙 OS
 
+# 💾 Data Structure
+
+- [자료구조 정리](./DataStructure/dataStructure.md)
+
 # ✍️ Hand Coding
 
 - [정렬](./HandCoding/sort.md)
