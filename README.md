@@ -94,6 +94,8 @@
 
 # 🌏 Network
 
+- [네트워크 정리](./Network/network.md)
+
 # 🚙 OS
 
 # 💾 Data Structure
