@@ -30,4 +30,10 @@ import cjsModule from 'module-name';
 })();
 ```
 
-[처음으로](../README.md)
+<div style="weight: 100%; display: flex; justify-content: space-between;">
+
+[< 처음으로 >](../README.md)
+
+[< 다음 >](./memory.md)
+
+</div>

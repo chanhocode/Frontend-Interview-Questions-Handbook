@@ -14,4 +14,10 @@
 - 모듈
 - Map, Set, WeakMap, WeakSet
 
-[처음으로](../README.md)
+<div style="weight: 100%; display: flex; justify-content: space-between;">
+
+[< 처음으로 >](../README.md)
+
+[< 첫 페이지로 >](./Javascript_language.md)
+
+</div>

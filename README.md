@@ -54,7 +54,7 @@
 
 - [const의 immutable](./Javascript/const.md)
 
-- [함수: 함수선언문과 함수표현식의 차이 및 즉시 실행함수](./Javascript/function.md)
+- [함수: 함수선언문과 함수표현식의 차이 및 화살표 함수, 즉시 실행함수](./Javascript/function.md)
 
 - [Javascript의 class와 Prototype](./Javascript/class.md)
 

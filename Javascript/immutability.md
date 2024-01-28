@@ -44,4 +44,10 @@ console.log(obj); // { a: 1 }
 
 이러한 메서드들을 사용하면 객체의 불변성을 강화할 수 있습니다. 하지만, 'Object.freeze'를 사용한 객체의 내부 객체 까지 불변하게 만들지 않기 때문에 이런 경우 불변성 라이브러리인 Immutable.js, Immer.js 같은 라이브러리를 사용하여 불변성을 보다 쉽게 관리할 수 있습니다.
 
-[처음으로](../README.md)
+<div style="weight: 100%; display: flex; justify-content: space-between;">
+
+[< 처음으로 >](../README.md)
+
+[< 다음 >](./es6.md)
+
+</div>

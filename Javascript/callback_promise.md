@@ -2,7 +2,7 @@
 
 ## 콜백 함수 (Callback)
 
-> 콜백 함수는 다른 함수의 인자로 넘겨지는 함수 이다. 비동기 프로그래밍에 사용되며 콜백함수가 연쇄적으로 이어지면 콜백지옥이 발생한다.
+> 콜백 함수는 다른 함수의 인자로 넘겨지는 함수 이다. 비동기 프로그래밍에 사용되며 콜백함수가 연쇄적으로 이어지면 `콜백지옥`이 발생한다.
 
 ```javascript
 function requestData(callback) {
@@ -106,4 +106,10 @@ promise
 - Promise와 Async/await 의 차이 <br>
   프로미스는 '.catch()'를 통해 에러 핸들링이 가능하지만, async/await는 try-catch()문을 사용하여 에러를 핸들링 한다. 또한 프로미스도 .then 지옥이 발생할 수 있기에 async/await을 활용한 코드가 코드 흐름을 이해하기 쉽다.
 
-[처음으로](../README.md)
+<div style="weight: 100%; display: flex; justify-content: space-between;">
+
+[< 처음으로 >](../README.md)
+
+[< 다음 >](./ajax.md)
+
+</div>

@@ -1,6 +1,6 @@
 # CallStack
 
-: Javascript는 단일 콜스택 기반이다.
+: Javascript는 `단일 콜스택 기반`이다.
 
 ```javascript
 function A() {
@@ -11,8 +11,15 @@ function B() {
 }
 A();
 ```
-> 실행 컨텍스트 단위로 쌓인다.
+
+> `실행 컨텍스트 단위로 쌓인다.`
 
 ![Alt text](image.png)
 
-[처음으로](../README.md)
+<div style="weight: 100%; display: flex; justify-content: space-between;">
+
+[< 처음으로 >](../README.md)
+
+[< 다음 >](./stack_queue_eventloop.md)
+
+</div>

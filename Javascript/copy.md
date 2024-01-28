@@ -30,6 +30,12 @@ const original {
 const DeepCopy = JSON.parse(JSON.stringify(original));
 ```
 
-: 하지만, 해당 방법은 순환 참조, Date, RegEXP등 특별한 객체를 정확히 복사하지 못할 수 있다. 이러한 경우 재귀함수나 외부라이브러리를 통해 깊은 복사를 수행한다.
+: 하지만, 해당 방법은 순환 참조, Date, RegEXP등 특별한 객체를 정확히 복사하지 못할 수 있다. 이러한 경우 재귀함수나 외부 라이브러리(loDash, cloneDeep)를 통해 깊은 복사를 수행한다.
 
-[처음으로](../README.md)
+<div style="weight: 100%; display: flex; justify-content: space-between;">
+
+[< 처음으로 >](../README.md)
+
+[< 다음 >](./eventBubbling.md)
+
+</div>
