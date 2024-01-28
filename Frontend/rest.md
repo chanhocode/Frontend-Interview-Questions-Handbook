@@ -2,7 +2,7 @@
 
 ## REST 란?
 
-> 자원을 이름으로 구분하여 해당 자원의 상태를 주고 받는 것이다. HTTP URI를 통해 자원을 명시하고 HTTP 메서드(POST, GET, PUT, DELETE)를 통해 해당 자원에 대한 CRUD를 적용하는 것이다. `자원 기반의 구조 설계의 중심에 자원이 있고, HTTP 메서드를 통해 이를 처리한다.`
+> `자원을 이름으로 구분하여 해당 자원의 상태를 주고 받는 것이다.` HTTP URI를 통해 자원을 명시하고 HTTP 메서드(POST, GET, PUT, DELETE)를 통해 해당 자원에 대한 CRUD를 적용하는 것 이다. `자원 기반의 구조 설계의 중심에 자원이 있고, HTTP 메서드를 통해 이를 처리한다.`
 
 ## API 란?
 
@@ -25,7 +25,13 @@
 ## RESTful 이란?
 
 - "레스트풀하다"는 REST 아키텍처 원칙을 잘 따르는 시스템이나 애플리케이션을 의미한다.
-- RESTful API는 REST 원칙을 준수하여 설계된 API를 말하며, 이를 통해 시스템 간의 효율적이고 유연한 통신이 가능해집니다.
+- `RESTful API는 REST 원칙을 준수하여 설계된 API`를 말하며, 이를 통해 시스템 간의 효율적이고 유연한 통신이 가능해집니다.
 - RESTful API를 사용하면, 개발자는 플랫폼과 언어에 구애받지 않고 다양한 클라이언트에서 서버의 리소스를 사용할 수 있습니다.
 
-[처음으로](../README.md)
+<div style="weight: 100%; display: flex; justify-content: space-between;">
+
+[< 처음으로 >](../README.md)
+
+[< 다음 >](./spa_csr_ssr.md)
+
+</div>

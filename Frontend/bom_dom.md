@@ -32,4 +32,10 @@ element.textContent = '새로운 내용';
 window.location.href = 'https://www.example.com';
 ```
 
-[처음으로](../README.md)
+<div style="weight: 100%; display: flex; justify-content: space-between;">
+
+[< 처음으로 >](../README.md)
+
+[< 다음 >](./rest.md)
+
+</div>

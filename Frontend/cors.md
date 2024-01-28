@@ -6,4 +6,10 @@
 
 - 해당 문제를 해결하려면 response헤더에 "Access-Control-Allow-Origin"를 추가하거나, 서버 쪽에서 처리를 해줘야 한다.
 
-[처음으로](../README.md)
+<div style="weight: 100%; display: flex; justify-content: space-between;">
+
+[< 처음으로 >](../README.md)
+
+[< 다음 >](./oop.md)
+
+</div>

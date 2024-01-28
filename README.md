@@ -90,7 +90,7 @@
 
 # 🌀 React
 
-- [고차 컴포넌트(HOC)](./React/hoc.md)
+- [React 정리](./React/react.md)
 
 # 🌏 Network
 
