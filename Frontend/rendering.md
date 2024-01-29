@@ -1,6 +1,6 @@
 # 브라우저 렌더링 원리
 
-> 브라우저는 레ㄴ더링을 위해 웹킷(Webkit) 또는 게코(Gecko)와 같은 렌더링 엔진을 사용한다. 렌더링 엔진이 HTML, CSS, Javascript로 렌더링할 때 CRP(Critical Rendering Path) 프로세서를 사용한다.
+> 브라우저는 렌더링을 위해 웹킷(Webkit) 또는 게코(Gecko)와 같은 렌더링 엔진을 사용한다. 렌더링 엔진이 HTML, CSS, Javascript로 렌더링할 때 CRP(Critical Rendering Path) 프로세서를 사용한다.
 
 1. `문서 요청과 로딩(DOM Loading)`
 
